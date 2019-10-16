@@ -6,3 +6,4 @@ Gitの練習をしていきます。
 変更した理由
 ・git add
 ・git commit
+・git rm
